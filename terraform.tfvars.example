@@ -1,0 +1,4 @@
+digitalocean_token = ""
+access_id          = ""
+secret_key         = ""
+bucket_name        = ""
